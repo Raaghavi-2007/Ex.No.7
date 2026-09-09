@@ -30,7 +30,7 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
-## Technical Communication Portfolio
+# Technical Communication Portfolio
 
 ## Objective:
 
