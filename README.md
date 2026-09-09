@@ -137,6 +137,75 @@ A professional and ATS-friendly resume.
 * Improved presentation of skills
 
 ---
+## 6. LinkedIn Profile:
+## Initial Prompt:
+
+"Write a LinkedIn profile."
+
+## Improved Prompt:
+
+"Create a professional LinkedIn headline, About section, skills section, and career objective for a Computer Science Engineering student interested in software development and AI."
+
+## Outcome:
+
+A professional LinkedIn profile suitable for networking.
+
+## Improvements Observed:
+
+* Enhanced professional branding
+* Clear career goals
+* Better keyword optimization
+
+---
+## 7. Research Poster:
+## Initial Prompt:
+
+"Create content for a research poster on AI."
+
+## Improved Prompt:
+
+"Generate content for a research poster titled 'Artificial Intelligence in Healthcare'. Include title, introduction, objectives, methodology, results, conclusion, and future work using concise poster-friendly language."
+
+## Outcome:
+
+Well-structured content suitable for a research poster.
+
+## Improvements Observed:
+
+* Concise presentation
+* Better visual organization
+* Improved readability
+
+---
+## Evaluation:
+
+| Criterion          | Evaluation                                                                                                                        |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Grammar            | Iterative prompting significantly reduced grammatical errors, improved sentence structure, and enhanced overall language quality. |
+| Technical Accuracy | Providing detailed context and constraints improved the correctness and relevance of technical information.                       |
+| Plagiarism         | AI-generated content was reviewed, paraphrased, and refined to maintain originality and reduce content duplication.               |
+| Readability        | Structured prompts improved clarity, organization, coherence, and audience engagement.                                            |
+| Professionalism    | Documents followed accepted professional and academic formats, making them suitable for real-world applications.                  |
+
+---
+## Comparative Analysis:
+
+| Document Type     | Initial Quality     | Quality After Iterative Prompting |
+| ----------------- | ------------------- | --------------------------------- |
+| Technical Report  | Basic overview      | Detailed academic report          |
+| Research Abstract | Generic summary     | Structured research abstract      |
+| Literature Review | Simple explanation  | Critical academic review          |
+| Project Proposal  | General idea        | Comprehensive proposal            |
+| Resume            | Basic profile       | ATS-friendly professional resume  |
+| LinkedIn Profile  | Generic description | Professional branding document    |
+| Research Poster   | Simple content      | Poster-ready structured content   |
+
+---
+## Conclusion:
+
+This portfolio demonstrates the effectiveness of prompt engineering in producing high-quality technical and professional communication. Through iterative prompting, the generated outputs became more structured, accurate, readable, and professionally formatted. The exercise illustrates that prompt refinement plays a crucial role in maximizing the capabilities of Generative AI tools. By providing clear instructions, contextual information, formatting requirements, and constraints, users can generate reports, abstracts, literature reviews, project proposals, resumes, LinkedIn profiles, and research posters that meet academic and industry standards. The experiment successfully highlights the value of prompt engineering as an essential skill for effective AI-assisted communication.
+
+---
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
  Understand how to tailor LLM prompts to real-life applications.
